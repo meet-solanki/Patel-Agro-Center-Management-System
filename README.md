@@ -3,13 +3,6 @@
 ## Project Overview
 Patel Agro Center Management System is a web based application developed using ASP.NET and SQL Server. This system helps to manage daily operations of an agro center like product management, customer records, sales, billing and stock management.
 
-## Developed By
-• Aajakiya Deep M.  
-• Bhasker Ketan R.
-
-## Guided By
-Miss Vidhi Chudasama
-
 ## College
 Saraswati College of Commerce BBA & IT – Dhoraji
 
